@@ -1,6 +1,10 @@
 # dump1090 stream parser
 
-This software takes a [dump1090](https://github.com/antirez/dump1090) stream of [ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) messages and plops them into a sqlite database with a timestamp.
+This is a fork of [Yanofsky's](https://github.com/yanofsky/dump1090-stream-parser) dump1090 stream parser.
+
+This fork is under development and probably is broken and not working yet.
+
+This software takes a [dump1090](https://github.com/antirez/dump1090) stream of [ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) messages and plops them into a mySQL database with a timestamp.
 
 ## Usage
 
